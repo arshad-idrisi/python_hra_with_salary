@@ -10,7 +10,7 @@ def sal():
     comm = inp2 * 10/100
     num3.delete(0, END)
     num3.insert(0, comm)
-    hra = inp2 * 15/10011
+    hra = inp2 * 15/100
     num4.delete(0, END)
     num4.insert(0, hra)
     pf = inp2 * 3/100
